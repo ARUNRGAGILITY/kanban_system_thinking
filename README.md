@@ -1,2 +1,2 @@
-# kanban_system_books
+# Kanban Systems Thinking
 Kanban system books
